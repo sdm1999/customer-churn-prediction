@@ -43,7 +43,7 @@ Based on the experimental execution in the notebook, the classification models a
 | :--- | :--- |
 | **Logistic Regression** | Baseline statistical convergence, fast inference |
 | **Decision Tree Classifier** | Strong feature rules mapping, highly interpretable |
-| **Random Forest Classifier** | 🚀 **Top Performer** (Ensemble variance reduction) |
+| **Random Forest Classifier** |  **Top Performer** (Ensemble variance reduction) |
 
 * **Winner:** The **Random Forest Classifier** provided the most stable operational balance for identifying true churners while keeping false alarms low.
 
